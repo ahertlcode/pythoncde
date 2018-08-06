@@ -1,0 +1,46 @@
+S/N,President,Start,End,Party
+1,George Washington,"April 30, 1789","March 4, 1797",Unaffiliated
+2,John Adams,"March 4, 1797","March 4, 1801",Federalist
+3,Thomas Jefferson,"March 4, 1801","March 4, 1809",Democratic-Republican
+4,James Madison,"March 4, 1809","March 4, 1817",Democratic-Republican
+5,James Monroe,"March 4, 1817","March 4, 1825",Democratic-Republican
+6,John Quincy Adams,"March 4, 1825","March 4, 1829",Democratic-Republican
+7,Andrew Jackson,"March 4, 1829","March 4, 1837",Democratic
+8,Martin Van Buren,"March 4, 1837","March 4, 1841",Democratic
+9,William Henry Harrison,"March 4, 1841","April 4, 1841 ",Whig
+10,John Tyler,"April 4, 1841","March 4, 1845",Whig
+11,James K. Polk,"March 4, 1845","March 4, 1849",Democratic
+12,Zachary Taylor,"March 4, 1849","July 9, 1850 ",Whig
+13,Millard Fillmore,"July 9, 1850","March 4, 1853",Whig
+14,Franklin Pierce,"March 4, 1853","March 4, 1857",Democratic
+15,James Buchanan,"March 4, 1857","March 4, 1861",Democratic
+16,Abraham Lincoln,"March 4, 1861","April 15, 1865 ",Republican(National Union)
+17,Andrew Johnson,"April 15, 1865","March 4, 1869",National Union
+18,Ulysses S. Grant,"March 4, 1869","March 4, 1877",Republican
+19,Rutherford B. Hayes,"March 4, 1877","March 4, 1881",Republican
+20,James A. Garfield,"March 4, 1881","September 19, 1881",Republican
+21,Chester A. Arthur,"September 19, 1881","March 4, 1885",Republican
+22,Grover Cleveland,"March 4, 1885","March 4, 1889",Democratic
+23,Benjamin Harrison,"March 4, 1889","March 4, 1893",Republican
+24,Grover Cleveland,"March 4, 1893","March 4, 1897",Democratic
+25,William McKinley,"March 4, 1897","September 14, 1901",Republican
+26,Theodore Roosevelt,"September 14, 1901","March 4, 1909",Republican
+27,William Howard Taft,"March 4, 1909","March 4, 1913",Republican
+28,Woodrow Wilson,"March 4, 1913","March 4, 1921",Democratic
+29,Warren G. Harding,"March 4, 1921","August 2, 1923",Republican
+30,Calvin Coolidge,"August 2, 1923","March 4, 1929",Republican
+31,Herbert Hoover,"March 4, 1929","March 4, 1933",Republican
+32,Franklin D. Roosevelt,"March 4, 1933","April 12, 1945",Democratic
+33,Harry S. Truman,"April 12, 1945","January 20, 1953",Democratic
+34,Dwight D. Eisenhower,"January 20, 1953","January 20, 1961",Republican
+35,John F. Kennedy,"January 20, 1961","November 22, 1963",Democratic
+36,Lyndon B. Johnson,"November 22, 1963","January 20, 1969",Democratic
+37,Richard Nixon,"January 20, 1969","August 9, 1974 ",Republican
+38,Gerald Ford,"August 9, 1974","January 20, 1977",Republican
+39,Jimmy Carter Born,"January 20, 1977","January 20, 1981",Democratic
+40,Ronald Reagan,"January 20, 1981","January 20, 1989",Republican
+41,George H. W.,"January 20, 1989","January 20, 1993",Republican
+42,Bill Clinton Born,"January 20, 1993","January 20, 2001",Democratic
+43,George W. Bush,"January 20, 2001","January 20, 2009",Republican
+44,Barack Obama Born,"January 20, 2009","January 20, 2017",Democratic
+45,Donald Trump Born,"January 20, 2017","May 17, 2018",Republican
